@@ -1,0 +1,24 @@
+email:
+  smtp_server: smtp.163.com
+  smtp_port: 25
+  smtp_user: xxxxxxxxxxxx@163.com
+  smtp_password: xxxxxxxxxxx
+ali_user_configs:
+  - config_name: xxxxxxxxxx
+    email_address: xxxxxxx@qq.com
+    nickname: xxxxxxx
+    task_configs:
+      - task_name: xxxxxxxxx分享链接监听
+        update_time: 00:00
+        parent_file_id: xxxxxxxxxxxxxxxxxxxxxxxxx
+        to_parent_file_id: xxxxxxxxxxxxxxxxxxxxxxxxx
+        is_resource_disk: true
+        share_id: xxxxxxxxxxx
+        share_pwd: ''
+      - task_name: xxxxxxxxxx分享链接监听
+        update_time: 00:00
+        parent_file_id: xxxxxxxxxxxxxxxxxxxxxxxxx
+        to_parent_file_id: xxxxxxxxxxxxxxxxxxxxxxxxx
+        is_resource_disk: true
+        share_id: xxxxxxxxxxx
+        share_pwd: ''
